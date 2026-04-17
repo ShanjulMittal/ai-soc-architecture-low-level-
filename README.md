@@ -9,15 +9,6 @@ Interactive, single-page architecture diagram for a modern AI-driven SOC, includ
 
 https://shanjulmittal.github.io/ai-soc-architecture-low-level-/
 
-## Run locally
-
-Open [index.html](file:///Users/shanjulmittal/AI-SOC/index.html) directly in a browser, or serve the folder:
-
-```bash
-python3 -m http.server 8001
-```
-
-Then open http://localhost:8001/
 
 ## Usage
 
